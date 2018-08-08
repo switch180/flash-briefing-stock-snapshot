@@ -1,0 +1,4 @@
+boto3==1.7.45
+botocore==1.10.45
+itsdangerous==0.24
+git+https://github.com/Jamonek/Robinhood.git@06e94c7d46ae05fb0621b519aaa98a986360b08b

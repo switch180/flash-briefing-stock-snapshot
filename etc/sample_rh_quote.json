@@ -1,0 +1,17 @@
+{
+  "previous_close": "1715.6700",
+  "has_traded": true,
+  "trading_halted": false,
+  "updated_at": "2018-06-25T14:07:53Z",
+  "bid_price": "1683.4000",
+  "last_trade_price": "1673.7400",
+  "last_extended_hours_trade_price": null,
+  "adjusted_previous_close": "1715.6700",
+  "ask_price": "1683.9900",
+  "instrument": "https://api.robinhood.com/instruments/xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxx/",
+  "last_trade_price_source": "nls",
+  "ask_size": 400,
+  "previous_close_date": "2018-06-22",
+  "symbol": "AMZN",
+  "bid_size": 100
+}
